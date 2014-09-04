@@ -3,7 +3,7 @@ vim
 
 Download vim from http://tuxproject.de/projects/vim/
 
-Downaload lua52 from http://sourceforge.net/projects/luabinaries/files/latest/download and copy lua52.dll to gvim.exe directory
+Download lua52 from http://sourceforge.net/projects/luabinaries/files/latest/download and copy lua52.dll to gvim.exe directory
 
 Run setup.bat
 
