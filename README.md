@@ -1,4 +1,4 @@
 vim
 ===
 
-Download vim form http://tuxproject.de/projects/vim/
+Download vim from http://tuxproject.de/projects/vim/
